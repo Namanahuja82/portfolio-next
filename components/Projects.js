@@ -26,7 +26,7 @@ const Projects = () => {
               </a>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
-              <a href="https://github.com/yourusername/chitragupta-ai" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/Namanahuja82/chat_rag/" target="_blank" rel="noopener noreferrer">
                 <img
                   src="/images/chitragupta.png"
                   alt="Chitragupta AI"
