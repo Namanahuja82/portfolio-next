@@ -9,7 +9,7 @@ const About = () => {
 
           {/* Button for Mobile */}
           <a
-            href="/resume.pdf"  // Link to your resume file
+            href="/2110990908_naman.pdf"  // Link to your resume file
             download
             className="block px-4 py-2.5 bg-blue-500 text-white font-semibold text-base rounded shadow-lg hover:bg-blue-600 transition duration-300 mb-6 md:hidden max-w-xs mx-auto"
           >
@@ -22,7 +22,7 @@ const About = () => {
 
           {/* Button for Desktop */}
           <a
-            href="/resume.pdf"  // Link to your resume file
+            href="/2110990908_naman.pdf"  // Link to your resume file
             download
             className="hidden md:block px-4 py-2.5 bg-blue-500 text-white font-semibold text-base rounded shadow-lg hover:bg-blue-600 transition duration-300 max-w-xs mx-auto"
           >
